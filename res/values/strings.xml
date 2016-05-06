@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="grey">#2C2B2E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darker_gray">#141415</color>
+    <color name="black">#000000</color>
+
+    <string name="desc">This could be an image description</string>
+    <string name="start">START</string>
+    <string name="title_activity_game">Game</string>
+    <string name="title_activity_final_results">FinalResults</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="start_over">Start a new game?</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="quit">QUIT</string>
+
+</resources>
